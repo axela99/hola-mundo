@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="es">
+<html lang="hello mi">
 <head>
   <meta charset="utf-8">
   <title>IES Juan Mantovani</title>
